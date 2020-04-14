@@ -17,8 +17,7 @@ Install From: https://git-scm.com/
 In the install options: Text editor: Vim or notepad++ (if picking vim most important thing to know is :wq to save and quit it)  https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor  
 And chose the option for use git from commandline. For the rest doesnt matter  
 ![textEditor](./img/textEditor.png)  
-![textEditor](./img/CommandLine.png)  
-![textEditor](./img/git4.png)  
+![CommandLine](./img/CommandLine.png)  
 
 
 ### 2. Install and follow interactive tutorial tool
