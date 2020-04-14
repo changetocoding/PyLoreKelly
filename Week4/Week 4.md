@@ -54,10 +54,11 @@ b = inc(p)
 
 
 # Recursion
-This is when a function calls itself.  
-In English many examples of recursion: "A human is someone whose mother is human".  
+This is when a function calls itself.
 
 ```python
+# Summing numbers recursively
+
 def sum(list):
     if len(list) == 1:
         return list[0]
@@ -67,6 +68,25 @@ def sum(list):
 print(sum([5,7,3,8,10]))
 
 ```
+
+  
+Recursion happens a lot languages. An example:
+> Every human's mother and father is a human.
+
+So lets rewrite it as a function:
+
+IsHuman(person) = IsHuman(person.Father) && IsHuman(person.Mother)
+
+So would look like
+```python
+def IsHuman(alien): 
+{
+   return IsHuman(alien.Father) && IsHuman(alien.Mother)
+}
+
+```
+So now I'm like is John a human?
+Well to know that I need to know if Johns parents are human. To know that I need to know if thier parents (john's grandparents) are human.
 
 Limit of recursion. Python stops the function calls after a depth of 1000 calls.
 
