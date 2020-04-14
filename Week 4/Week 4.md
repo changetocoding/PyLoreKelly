@@ -12,21 +12,21 @@ Course git repo: https://github.com/changetocoding/PyLoreKelly
 Install https://desktop.github.com/ because it installs Git in the most consistent way across. We won't use the UI for it, Just the command line and we'll use pycharm for the ui bits (We'll cover that later)
 
 
-Alternatively can install just git itself from the offical site.
-Install From: https://git-scm.com/
-In the install options: Text editor: Vim or notepad++ (if picking vim most important thing to know is :wq to save and quit it)  https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor
-And chose the option for use git from commandline. For the rest doesnt matter
-![textEditor](./img/textEditor.png)
-![textEditor](./img/CommandLine.png)
-![textEditor](./img/git4.png)
+Alternatively can install just git itself from the offical site.  
+Install From: https://git-scm.com/  
+In the install options: Text editor: Vim or notepad++ (if picking vim most important thing to know is :wq to save and quit it)  https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor  
+And chose the option for use git from commandline. For the rest doesnt matter  
+![textEditor](./img/textEditor.png)  
+![textEditor](./img/CommandLine.png)  
+![textEditor](./img/git4.png)  
 
 
 ### 2. Install and follow interactive tutorial tool
-Download the tutorial tool from here: https://github.com/jlord/git-it-electron/releases
-Unzip it then click on the exe.
-Follow the tutorial.
+Download the tutorial tool from here: https://github.com/jlord/git-it-electron/releases  
+Unzip it then click on the exe.  
+Follow the tutorial.  
 
-An additional tutorial is: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+An additional tutorial is: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners  
 
 
 # Functions
@@ -55,8 +55,8 @@ b = inc(p)
 
 
 # Recursion
-This is when a function calls itself.
-In English many examples of recursion: "A human is someone whose mother is human".
+This is when a function calls itself.  
+In English many examples of recursion: "A human is someone whose mother is human".  
 
 ```python
 def sum(list):
@@ -79,14 +79,14 @@ Shorthand for writing a function
 
 
 ## Course book
-HW: https://classroom.udacity.com/courses/ud1110 Lesson 5 (Control Flow, Functions). Control flow is revision of lesson 1
+HW: https://classroom.udacity.com/courses/ud1110 Lesson 5 (Control Flow, Functions). Control flow is revision of lesson 1  
 (Functions, variable scope, default arguments, lamda functions)
 
 ### Fibonacci numbers
 
 Fibonacci numbers are a sequence that is got by adding the previous two numbers.
 
-The sequence looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,
+The sequence looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34  
 https://www.mathsisfun.com/numbers/fibonacci-sequence.html
 
 There are several ways to solve this.
@@ -101,8 +101,8 @@ Solve it using 2 different ways:
 
 ### Optional HW:
 (If doing this let me know how easy it was. Think might be too indepth for beginners)
-additional more in depth about functions: https://realpython.com/defining-your-own-python-function/
-Additional more in depth about lamdas https://realpython.com/python-lambda/
+additional more in depth about functions: https://realpython.com/defining-your-own-python-function/  
+Additional more in depth about lamdas https://realpython.com/python-lambda/  
 
 
 
