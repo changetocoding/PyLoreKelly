@@ -80,10 +80,7 @@ IsHuman(person) = IsHuman(person.Father) && IsHuman(person.Mother)
 So would look like
 ```python
 def IsHuman(alien): 
-{
    return IsHuman(alien.Father) && IsHuman(alien.Mother)
-}
-
 ```
 So now I'm like is John a human?
 Well to know that I need to know if Johns parents are human. To know that I need to know if thier parents (john's grandparents) are human.
