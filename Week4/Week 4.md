@@ -1,4 +1,9 @@
-Week 3 homework review
+# Homework review
+
+-Structure of homework will be chapter from coursebook and an assignment that puts into practise what know so far
+-Also sometimes don't immediately understand why works in example: Field those questions in first 30 mins of class
+- Went through chaptr 4.14 in homework: What 2 different ways of doing it.
+- Went through dictionary.items() is a tuple
 
 # Git
 Git and other source control tools provide an important function letting developers share code, backs up code and keeps track of changes made to code.
@@ -52,6 +57,20 @@ b = inc(p)
 
 ```
 
+### Examples from class
+```python
+def change_to_user(names):
+	temp = []
+	for name in names:
+		temp.append(name.lower().replace(" ", "_"))
+	return temp
+
+
+def change_to_user_mod(names):
+	for i in range(len(names)):
+		names[i] = names[i].lower().replace(" ", "_")
+    return names
+```
 
 # Recursion
 This is when a function calls itself.
@@ -87,6 +106,20 @@ Well to know that I need to know if Johns parents are human. To know that I need
 
 Limit of recursion. Python stops the function calls after a depth of 1000 calls.
 
+In class example
+```python
+def sum_it(no):
+    print("Summing: %d" % no)
+	new_no = no + 5
+	if (new_no > 100):
+		return 100
+	else:
+		sum_recursive = sum_it(new_no)
+		print("Recursive_sum is : %d" % sum_recursive)
+		return no + sum_recursive
+		
+sum_it(0)
+```
 # Lamadas:
 Shorthand for writing a function
 
@@ -107,11 +140,28 @@ https://www.mathsisfun.com/numbers/fibonacci-sequence.html
 
 There are several ways to solve this.
 
-Solve it using 2 different ways:
-1. For or while loop
-2. Recursion
+Solve it using 3 different ways:
+1. For loop
+2. While loop
+3. Recursion
 
-### Additional HW (Lore): 
+Expecting 3 different .py files, one for each method. Code should look something like this inside it:
+```python
+# The index we want to find the Fibonacci number at
+fib_index = 18
+# the name/variable to store the Fibonacci number at that index
+fib_no_at_index = 0
+
+# Your logic work out what value of fib_no_at_index should be
+...
+
+# print fib_no_at_index using string formating
+...
+```
+
+
+
+### Additional HW (Lore, Amedu): 
 1. Prepare and give a 2 minute presentation on source control.
 2. Create a git reposition online (github or bitbucket) and commit the code you wrote yesterday to it.
 
