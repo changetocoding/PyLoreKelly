@@ -14,24 +14,35 @@ Course git repo: https://github.com/changetocoding/PyLoreKelly
 
 
 ### 1. Install Git
-Install https://desktop.github.com/ because it installs Git in the most consistent way across. We won't use the UI for it, Just the command line and we'll use pycharm for the ui bits (We'll cover that later)
-
-
-Alternatively can install just git itself from the offical site.  
-Install From: https://git-scm.com/  
+Install just git from the offical site: https://git-scm.com/  
 In the install options: Text editor: Vim or notepad++ (if picking vim most important thing to know is :wq to save and quit it)  https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor  
 And chose the option for use git from commandline. For the rest doesnt matter  
 ![textEditor](./img/textEditor.png)  
 ![CommandLine](./img/CommandLine.png)  
 
+We won't use the UI for it, Just the command line and we'll use pycharm for the ui bits (We'll cover that later)
+
 
 ### 2. Install and follow interactive tutorial tool
-Download the tutorial tool from here: https://github.com/jlord/git-it-electron/releases  
-Unzip it then click on the exe.  
-Follow the tutorial.  
+a. Download the tutorial tool from here: https://github.com/jlord/git-it-electron/releases  
+Git-it-Mac-x64.zip if you have a mac
+Git-it-Win-ia32.zip if you have a windows machine.
+b. Unzip it 
+c. Click on the exe file Git-it.exe.
+d. If you get a blue screen: "Windows prevented an unrecognised app from starting". Click on the more info then allow it to run
+e. Follow the tutorial.  
 
-An additional tutorial is: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners  
+An additional tutorial is: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners.
 
+Make sure you are comfortable with this git commands:
+
+```
+git clone
+git add
+git commit
+git pull
+git push
+```
 
 # Functions
 
