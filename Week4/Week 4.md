@@ -34,7 +34,7 @@ e. Follow the tutorial.
 
 An additional tutorial is: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners.
 
-Make sure you are comfortable with this git commands:
+Make sure you are comfortable with these git commands:
 
 ```
 git clone
