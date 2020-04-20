@@ -85,19 +85,17 @@ The application takes 2 commands
 
 E.g. sample input/output
 
->Command:
-Add David 02345678901
->Command:
-Add Tom 12345678900
->Command:
-Query David
->David's number is 02345678901
->Command:
-Query 12345678900
->Tom's number is 12345678900
->Command:
-
-Where >> is used to indicate the system responses from your script
+>Command:  
+Add David 02345678901  
+>Command:  
+Add Tom 12345678900  
+>Command:  
+Query David  
+>David's number is 02345678901  
+>Command:  
+Query 12345678900  
+>Tom's number is 12345678900  
+>Command:  
 
 
 Constraints:
