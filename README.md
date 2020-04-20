@@ -167,6 +167,16 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 ## Leson Jupyter and IPython.
 
+# Dash - Dashboards
+Dash: https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f
+
+# Virtual Environments
+
+# Xlwings
+Ex: Make a button in excel to either call a script or call an executable that you've made with pyinstaller. Use to scrape up all their data (or other data) and do all the calculations in Python and then output back to the same spreadsheet
+ 
+# PyInstaller
+
 ## Project: Data sciencing my budget!
 
 1. Parse html to get spending
@@ -180,9 +190,11 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 -Serialisation
 -Partial functions
 -Closures
+-Mulithreading
 -Map reduce https://www.learnpython.org/en/Map,_Filter,_Reduce
 
-# Other to cover:
+
+# Other to cover over course:
 Mutable vs immuatable.
 Pass by ref/ pass by value and what python does
 PEP8 & clean code in python
