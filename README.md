@@ -102,11 +102,12 @@ additional more in depth about functions: https://realpython.com/defining-your-o
 
 ## Lesson 5: Objects
 Objects  
-Modules  
 [Tutorial 1](https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial/)
 [Tutorial 2](https://pythonbasics.org/class/)
 HW Revision: [Sets](https://www.learnpython.org/en/Sets), [Dictionaries](https://www.learnpython.org/en/Dictionaries), [Functions](https://www.learnpython.org/en/Functions)  
-HW: [Classes](https://www.learnpython.org/en/Classes_and_Objects)  [Modules](https://www.learnpython.org/en/Modules_and_Packages) Use Pycharm  
+HW: [Classes](https://www.learnpython.org/en/Classes_and_Objects)
+HW: Phonebook:
+
 
 ## Lesson 6: Other stuff Exception Handling
 Exception Handling  
@@ -125,6 +126,9 @@ HW: https://classroom.udacity.com/courses/ud1110  Lesson 7 Advanced Topics
 ## Lesson 8: Reading and writing to files
 https://automatetheboringstuff.com/2e/chapter9/
 
+## Lesson 9: Modules & revision of objects
+Modules
+[Modules](https://www.learnpython.org/en/Modules_and_Packages) Use Pycharm  
 
 ## Review Lesson.
 Review topics covered  
