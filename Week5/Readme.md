@@ -84,7 +84,7 @@ The application takes 2 commands
 - Query: the user can query the phone book using a name or a number: given an 11 digit number it returns the name of a person. Or given a name returns the number of the person. Return a useful error message if the person does not exist.
 
 E.g. sample input/output
-
+```
 >_Command:  
 >Add David 02345678901  
 >_Command:   
@@ -96,6 +96,7 @@ E.g. sample input/output
 >Query 12345678900  
 >_Tom's number is 12345678900  
 >_Command:  
+```
 
 Where _ is used to indicate the system responses from your script
 
