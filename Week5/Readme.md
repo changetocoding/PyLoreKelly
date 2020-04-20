@@ -85,20 +85,20 @@ The application takes 2 commands
 
 E.g. sample input/output
 ```
->_Command:  
->Add David 02345678901  
->_Command:   
->Add Tom 12345678900  
->_Command:   
->Query David   
->_David's number is 02345678901  
->_Command:  
->Query 12345678900  
->_Tom's number is 12345678900  
->_Command:  
+>Command:
+Add David 02345678901
+>Command:   
+Add Tom 12345678900  
+>Command:   
+Query David   
+>David's number is 02345678901  
+>Command:  
+Query 12345678900  
+>Tom's number is 12345678900  
+>Command:  
 ```
 
-Where _ is used to indicate the system responses from your script
+Where > is used to indicate the system responses from your script
 
 Constraints:
 - You must define a class called PhoneBook and use it (Helpful hint this class should have 3 methods (add, query using a number, query using a name)
