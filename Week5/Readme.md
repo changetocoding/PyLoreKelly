@@ -90,10 +90,14 @@ Add David 02345678901
 \>Command:  
 Add Tom 12345678900  
 >Command:  
-Query David  
+
+Query David 
+
 >David's number is 02345678901  
->Command:  
+>Command: 
+
 Query 12345678900  
+
 >Tom's number is 12345678900  
 >Command:  
 
