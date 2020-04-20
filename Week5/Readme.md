@@ -85,20 +85,17 @@ The application takes 2 commands
 
 E.g. sample input/output
 
->Command:
+>_Command:  
 >Add David 02345678901  
->Command: 
+>_Command:   
 >Add Tom 12345678900  
->Command:  
->Query David 
->
->>David's number is 02345678901  
->>Command: 
-
+>_Command:   
+>Query David   
+>_David's number is 02345678901  
+>_Command:  
 >Query 12345678900  
-
->>Tom's number is 12345678900  
->>Command:  
+>_Tom's number is 12345678900  
+>_Command:  
 
 
 Constraints:
