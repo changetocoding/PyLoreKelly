@@ -25,6 +25,10 @@ Data science tips [link](https://www.datasciencecentral.com/profiles/blogs/17-sh
 Online REPL [link](https://repl.it/languages/Python)  
 Advanced topics: [link](https://repl.it/talk/learn/Python-Advanced-Concepts-Explanation/7382)
 
+## Other useful learning resources:
+Python koans - https://github.com/gregmalcolm/python_koans
+Code wars - https://www.codewars.com/?language=python
+
   
 ## Lesson Plan
 Each lesson review last lesson  
@@ -118,6 +122,8 @@ HW: https://www.learnpython.org/en/Generators
 HW: https://www.learnpython.org/en/List_Comprehensions  
 HW: https://classroom.udacity.com/courses/ud1110  Lesson 7 Advanced Topics  
 
+## Lesson 8: Reading and writing to files
+https://automatetheboringstuff.com/2e/chapter9/
 
 
 ## Review Lesson.
@@ -195,7 +201,8 @@ Ex: Make a button in excel to either call a script or call an executable that yo
 
 
 # Other to cover over course:
-Mutable vs immuatable.
-Pass by ref/ pass by value and what python does
-PEP8 & clean code in python
-Duck typing
+-Mutable vs immuatable.
+-Pass by ref/ pass by value and what python does
+-PEP8 & clean code in python
+-Duck typing
+-Debugging
