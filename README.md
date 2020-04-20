@@ -26,7 +26,7 @@ Online REPL [link](https://repl.it/languages/Python)
 Advanced topics: [link](https://repl.it/talk/learn/Python-Advanced-Concepts-Explanation/7382)
 
 ## Other useful learning resources:
-Python koans - https://github.com/gregmalcolm/python_koans
+Python koans - https://github.com/gregmalcolm/python_koans  
 Code wars - https://www.codewars.com/?language=python
 
   
