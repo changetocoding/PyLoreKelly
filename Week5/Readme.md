@@ -85,9 +85,9 @@ The application takes 2 commands
 
 E.g. sample input/output
 
->Command:  
+\>Command:  
 Add David 02345678901  
->Command:  
+\>Command:  
 Add Tom 12345678900  
 >Command:  
 Query David  
