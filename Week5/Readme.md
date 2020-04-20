@@ -56,6 +56,12 @@ print(person1)
 print(person3)
 ```
 
+## Reading input
+```python
+name = input("Enter a name: ")
+print(name)
+```
+
 ## Naming conventions:
 https://pep8.org/#naming-conventions
 
