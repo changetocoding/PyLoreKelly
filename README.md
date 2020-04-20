@@ -92,11 +92,12 @@ Additional Homework: https://realpython.com/python-dicts/
 Functions
 HW: https://classroom.udacity.com/courses/ud1110 Lesson 5 (Control Flow, Functions). Control flow is revision of lesson 1
 (Functions, variable scope, default arguments, lamda functions)
-HW: https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
+HW: Maths as functions: https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
+How old will I be: https://www.codewars.com/kata/5761a717780f8950ce001473
 Optional HW:  Fibonnaci numbers? Seems a bit hard
+
 Additional more in depth about lamdas https://realpython.com/python-lambda/
 additional more in depth about functions: https://realpython.com/defining-your-own-python-function/
-
 
 
 ## Lesson 5: Objects
@@ -106,8 +107,6 @@ Modules
 [Tutorial 2](https://pythonbasics.org/class/)
 HW Revision: [Sets](https://www.learnpython.org/en/Sets), [Dictionaries](https://www.learnpython.org/en/Dictionaries), [Functions](https://www.learnpython.org/en/Functions)  
 HW: [Classes](https://www.learnpython.org/en/Classes_and_Objects)  [Modules](https://www.learnpython.org/en/Modules_and_Packages) Use Pycharm  
-
-https://www.codewars.com/kata/5761a717780f8950ce001473
 
 ## Lesson 6: Other stuff Exception Handling
 Exception Handling  
