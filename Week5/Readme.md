@@ -101,5 +101,5 @@ Where >> is used to indicate the system responses from your script
 
 
 Constraints:
--You must define a class called PhoneBook and use it (Helpful hint this class should have 3 methods (add, query using a number, query using a name)
--You must store the phone number as a number (Use string formating to add leading 0's when outputting)
+- You must define a class called PhoneBook and use it (Helpful hint this class should have 3 methods (add, query using a number, query using a name)
+- You must store the phone number as a number (Use string formating to add leading 0's when outputting)
