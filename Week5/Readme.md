@@ -85,14 +85,18 @@ The application takes 2 commands
 
 E.g. sample input/output
 
-\>Command:  
-Add David 02345678901  
-\>Command:  
-Add Tom 12345678900  
+>>Command:
+>
+>Add David 02345678901  
+>
+>>Command: 
+>
+>Add Tom 12345678900  
+>
 >>Command:  
-
->Query David 
-
+>
+>>Query David 
+>
 >>David's number is 02345678901  
 >>Command: 
 
