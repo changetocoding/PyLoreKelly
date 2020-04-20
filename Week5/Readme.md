@@ -44,7 +44,8 @@ class Person:
         
     def change_name(self, new_name): # note that the first argument is self
         self.name = new_name # access the class attribute with the self keyword      
-        
+
+
 person1 = Person("David", 29)
 person2 = Person("Fred", 22)
 
