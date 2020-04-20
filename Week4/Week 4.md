@@ -147,7 +147,7 @@ HW: https://classroom.udacity.com/courses/ud1110 Lesson 5 (Control Flow, Functio
 Fibonacci numbers are a sequence that is got by adding the previous two numbers.
 
 The sequence looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34  
-https://www.mathsisfun.com/numbers/fibonacci-sequence.html
+https://www.mathsisfun.com/numbers/fibonacci-sequence.html (Stop reading after section The Rule)
 
 There are several ways to solve this.
 
