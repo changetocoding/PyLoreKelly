@@ -61,6 +61,10 @@ print(person3)
 ```python
 name = input("Enter a name: ")
 print(name)
+
+# to get as a int
+inputText = input("Enter a number: ")
+no = int(inputText)
 ```
 
 ## Naming conventions:
