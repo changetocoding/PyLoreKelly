@@ -69,7 +69,7 @@ Class Names: Class names should normally use the CapWords convention.
 > class ExcelWorkBook:
 
 Method names & variables: lower_case_with_underscore
-> def my_method:
+> def my_method:  
 > self.my_variable = 10
 
 # Homework
