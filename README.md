@@ -167,15 +167,15 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 ## Leson Jupyter and IPython.
 
-# Dash - Dashboards
+## Dash - Dashboards
 Dash: https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f
 
-# Virtual Environments
+## Virtual Environments
 
-# Xlwings
+## Xlwings
 Ex: Make a button in excel to either call a script or call an executable that you've made with pyinstaller. Use to scrape up all their data (or other data) and do all the calculations in Python and then output back to the same spreadsheet
  
-# PyInstaller
+## PyInstaller
 
 ## Project: Data sciencing my budget!
 
