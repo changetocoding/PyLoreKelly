@@ -4,6 +4,7 @@
 [Tutorial 2](https://pythonbasics.org/class/)
 
 ## Pycharm
+We will start using pycharm. You should now be comfortable using a text editor and the python interpreter so we will start using and IDE (Intergrated development environment). This makes coding easier for us
 
 ## Class is an object. 
 It lets us compose more complicated things. But also group together related things. E.g. a person has a name 
