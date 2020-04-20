@@ -97,6 +97,7 @@ E.g. sample input/output
 >_Tom's number is 12345678900  
 >_Command:  
 
+Where _ is used to indicate the system responses from your script
 
 Constraints:
 - You must define a class called PhoneBook and use it (Helpful hint this class should have 3 methods (add, query using a number, query using a name)
