@@ -66,27 +66,32 @@ Method names & variables: lower_case_with_underscore
 > def my_method:
 > self.my_variable = 10
 
+# Homework
+## Coursebook:
+Classes and objects:
+- [Classes](https://www.learnpython.org/en/Classes_and_Objects)
+Revision: 
+- [Sets](https://www.learnpython.org/en/Sets), 
+- [Dictionaries](https://www.learnpython.org/en/Dictionaries), 
+- [Functions](https://www.learnpython.org/en/Functions)
 
 
-HW Revision: [Sets](https://www.learnpython.org/en/Sets), [Dictionaries](https://www.learnpython.org/en/Dictionaries), [Functions](https://www.learnpython.org/en/Functions)  
-HW: [Classes](https://www.learnpython.org/en/Classes_and_Objects)
-HW: Phonebook:
+## Project Phonebook:
 The goal of this task is to create a phonebook application. 
 
 The application takes 2 commands
-Add: the user can enter name and 11 digit numbers pairs. e.g 12345678901
-
-Query: the user can query the phone book using a name or a number: given an 11 digit number it returns the name of a person. Or given a name returns the number of the person. Return a useful error message if the person does not exist.
+- Add: the user can enter name and 11 digit numbers pairs. e.g 12345678901
+- Query: the user can query the phone book using a name or a number: given an 11 digit number it returns the name of a person. Or given a name returns the number of the person. Return a useful error message if the person does not exist.
 
 E.g. sample input/output
 
 >>Command:
-Add David 12345678901
+Add David 02345678901
 >>Command:
 Add Tom 12345678900
 >>Command:
 Query David
->>David's number is 1234567890
+>>David's number is 02345678901
 >>Command:
 Query 12345678900
 >>Tom's number is 12345678900
@@ -96,5 +101,5 @@ Where >> is used to indicate the system responses from your script
 
 
 Constraints:
--You must create a class called PhoneBook
+-You must define a class called PhoneBook and use it (Helpful hint this class should have 3 methods (add, query using a number, query using a name)
 -You must store the phone number as a number (Use string formating to add leading 0's when outputting)
