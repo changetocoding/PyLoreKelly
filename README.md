@@ -210,3 +210,38 @@ Ex: Make a button in excel to either call a script or call an executable that yo
 -PEP8 & clean code in python
 -Duck typing
 -Debugging
+
+# Projects
+### Budget tracker
+Enter money for the month  
+Enter name, cost, category.  
+
+User can query using any of these questions
+"Report?": list total spent on each category
+"Am I pennywise or pound foolish?" Returns Yes/No
+"How much money do I have?" Returns money left
+
+### Address book
+Create Address class
+
+### Blackjack: 
+https://programmingbydoing.com/a/project-blackjack.html
+
+### Movie title generator 
+https://programmingbydoing.com/a/movie-title-gen.html
+
+### Tic tac toe
+https://programmingbydoing.com/a/tic-tac-toe-oop.html
+
+### The bank excerise
+
+### Temporal data store
+
+### Scrape website
+
+### Export to excel
+
+### Analyse my spend
+
+### Analyse Government spend
+https://catalog.data.gov/dataset/program-budget-operating-budget-vs-expense-raw-data
