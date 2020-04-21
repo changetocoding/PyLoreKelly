@@ -243,6 +243,9 @@ https://programmingbydoing.com/a/tic-tac-toe-oop.html
 
 ### Analyse my spend
 
+## Analyse  & predict LFB spend
+https://data.london.gov.uk/dataset/lfb-payments-over-f250-2019-20
+
 ### Analyse Government spend
 https://catalog.data.gov/dataset/program-budget-operating-budget-vs-expense-raw-data
 
