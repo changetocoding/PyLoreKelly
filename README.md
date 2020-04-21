@@ -245,3 +245,6 @@ https://programmingbydoing.com/a/tic-tac-toe-oop.html
 
 ### Analyse Government spend
 https://catalog.data.gov/dataset/program-budget-operating-budget-vs-expense-raw-data
+
+### Financial distress prediction
+https://www.kaggle.com/shebrahimi/financial-distress
