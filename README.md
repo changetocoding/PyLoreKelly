@@ -91,6 +91,8 @@ Additional Homework: https://realpython.com/python-dicts/
 
 ## Lesson 4: Functions & Recursion
 Functions
+We introduced Git here
+
 HW: https://classroom.udacity.com/courses/ud1110 Lesson 5 (Control Flow, Functions). Control flow is revision of lesson 1
 (Functions, variable scope, default arguments, lamda functions)
 HW: Maths as functions: https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
@@ -102,34 +104,47 @@ additional more in depth about functions: https://realpython.com/defining-your-o
 
 
 ## Lesson 5: Objects
-Objects  
+Objects
+We start using pycharm from here  
+
 [Tutorial 1](https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial/)
 [Tutorial 2](https://pythonbasics.org/class/)
 HW Revision: [Sets](https://www.learnpython.org/en/Sets), [Dictionaries](https://www.learnpython.org/en/Dictionaries), [Functions](https://www.learnpython.org/en/Functions)  
+
 HW: [Classes](https://www.learnpython.org/en/Classes_and_Objects)
 HW: Phonebook:
 
 
-## Lesson 6: Exceptions, files, code structuring
+## Lesson 6: Exceptions, Reading/writing files
 Exception Handling  
 Read/write to file
 Modules
-HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting
+
+HW: https://classroom.udacity.com/courses/ud1110 - Lesson 6 Scripting (Sections 8 - 21)
 
 
-## Lesson 7: Generators and List comprehension
+## Lesson 7: Iterators, Generators and List comprehension
 
-Generators https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do  
+Generators https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do 
+
 HW: https://www.learnpython.org/en/Generators  
 HW: https://www.learnpython.org/en/List_Comprehensions  
 HW: https://classroom.udacity.com/courses/ud1110  Lesson 7 Advanced Topics  
 
-## Lesson 8: Reading and writing to files
-https://automatetheboringstuff.com/2e/chapter9/
+## Lesson 8: Modules, importing libaries and revision of objects
+Modules. We will cover modules and importing other python files.  
+We will then cover external libaries and how to import them. Creating a webserver with bottle will be used as a demonstration
+[Modules](https://www.learnpython.org/en/Modules_and_Packages)
 
-## Lesson 9: Modules & revision of objects
-Modules
-[Modules](https://www.learnpython.org/en/Modules_and_Packages) Use Pycharm  
+HW: https://classroom.udacity.com/courses/ud1110 - Lesson 6 Scripting (Sections 22 to end)
+HW: Create a webserver using bottle. As a UI for two of the other hw assignments
+
+## Lesson 9: Unit testing & Git revision 
+Intro to unit testing & why  
+TDD
+We will review git here.
+
+HW: (tbc)
 
 ## Review Lesson.
 Review topics covered  
@@ -137,24 +152,13 @@ Q&A
 Plus 2 week assignment. Or think should spend next 3 weeks just solving problems to solidify knowledge
 HW: Assignment (own project?)
 
------ 
-
-
-# Software development tools
-
-## Lesson: Git & source control
-Intro to git. Problem to solve
-
-## Lesson: Unit testing 
-Intro to unit testing & why  
-TDD  
-HW: Problem to solve with tests as
 
 -----
 
 
 # Data Science
 
+Prior to the lesson anaconda should be installed.
 
 ## Lesson Intro to Numpy & Pandas
 https://www.learnpython.org/en/Numpy_Arrays & following chapter  
