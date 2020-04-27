@@ -117,7 +117,7 @@ Modules
 HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting
 
 
-## Lesson 7: Generators and iteration
+## Lesson 7: Generators and List comprehension
 
 Generators https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do  
 HW: https://www.learnpython.org/en/Generators  
