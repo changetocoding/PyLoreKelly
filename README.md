@@ -110,11 +110,11 @@ HW: [Classes](https://www.learnpython.org/en/Classes_and_Objects)
 HW: Phonebook:
 
 
-## Lesson 6: Other stuff Exception Handling
+## Lesson 6: Exceptions, files, code structuring
 Exception Handling  
-List comprehension 
+Read/write to file
+Modules
 HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting
-(Anaconda, external libraries)
 
 
 ## Lesson 7: Generators and iteration
