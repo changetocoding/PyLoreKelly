@@ -174,7 +174,8 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 ## Lesson Matplotlib
 
-## Lesson Importing/Writing data from Excel
+## Lesson Importing/Writing data from Excel or CSV
+https://realpython.com/python-csv/
 
 ## Lesson Importing/Writing data to a database
 
