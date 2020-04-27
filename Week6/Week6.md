@@ -1,11 +1,11 @@
-# Lesson 6: Other stuff Exception Handling
+# Lesson 6: Exceptions and Reading/Writing files
 
-# Read/write to file
+# Reading and Writing to files
 
 ### Files intro
-Intro to files from [here](https://realpython.com/read-write-files-python/)
+Need to know about files from [here](https://realpython.com/read-write-files-python/)
 1. What is a file
-2. File paths  (\), (.), (..)
+2. File paths  (/ or \), (.), (..)
 3. Line endings (\r\n)
 
 ### Opening a file & closing it
@@ -25,6 +25,8 @@ You need to remember to close it. Or alternatively use the with syntax
 ```
 
 The r parameter indicates reading. 3 most common
+parameter | meaning
+--- | ---
 r | Reading (default)
 w | Writing. overrides file first
 a | Writing. appends to the end of the file
