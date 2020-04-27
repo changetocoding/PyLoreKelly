@@ -5,7 +5,7 @@
 ### Files intro
 Need to know about files from [here](https://realpython.com/read-write-files-python/)
 1. What is a file
-2. File paths  (/ or \), (.), (..)
+2. File paths  (/ or \\), (.), (..)
 3. Line endings (\r\n)
 
 ### Opening a file & closing it
@@ -25,7 +25,7 @@ You need to remember to close it. Or alternatively use the with syntax
 ```
 
 The r parameter indicates reading. 3 most common
-parameter | meaning
+Parameter | Explanation
 --- | ---
 r | Reading (default)
 w | Writing. overrides file first
@@ -69,7 +69,7 @@ s = str(value)  # convert the tuple to string
 f.write(s)
 ```
 
-# Exception
+# Exceptions
 ### Handling Exceptions
 Handles bad situations. In the examples with files, what if the file does not exist? 
 Or the user gives us input that is a word when what we want is a number?
