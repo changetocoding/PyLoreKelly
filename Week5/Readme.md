@@ -57,6 +57,25 @@ print(person1)
 print(person3)
 ```
 
+## Class and instance variables
+Class variables are shared by all instances. While instance variables are unqiue to each new instance of the class you've created. Instance variables can be created in the __init__ method
+
+```python
+class Dog:
+
+    kind = 'canine'         # class variable shared by all instances
+
+    def __init__(self, name):
+        self.name = name    # instance variable unique to each instance
+
+d = Dog('Fido')
+e = Dog('Buddy')
+d.kind                  # shared by all dogs 'canine'
+e.kind                  # shared by all dogs 'canine'
+d.name                  # unique to d 'Fido'
+e.name                  # unique to e 'Buddy'
+```
+
 ## Reading input
 ```python
 name = input("Enter a name: ")
