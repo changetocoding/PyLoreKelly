@@ -108,7 +108,7 @@ Revision:
 
 # Project Phonebook:
 
-### Part 1 (Dictionaries explaination):
+### Part 1 (Dictionaries):
 Create a simple phonebook.
 
 1. Use a dictionary
@@ -119,7 +119,7 @@ Create a simple phonebook.
 
 
 ### Part 2
-We are going to extend dictionary to take in user input & stores the number as an int
+We are going to extend the dictionary to take in user input & stores the number as an int. Why is a dictionary a good datastructure for this?
 
 Write a new script that takes 2 commands
 - Add: the user can enter name and 11 digit numbers pairs. e.g 12345678901
