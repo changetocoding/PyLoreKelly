@@ -134,7 +134,9 @@ HW: https://classroom.udacity.com/courses/ud1110  Lesson 7 Advanced Topics
 ## Lesson 8: Modules, importing libaries and revision of objects
 Modules. We will cover modules and importing other python files.  
 We will then cover external libaries and how to import them. Creating a webserver with bottle will be used as a demonstration
-[Modules](https://www.learnpython.org/en/Modules_and_Packages)
+[Modules](https://www.learnpython.org/en/Modules_and_Packages) 
+[Offical Docs](https://docs.python.org/3/tutorial/modules.html)
+
 
 HW: https://classroom.udacity.com/courses/ud1110 - Lesson 6 Scripting (Sections 22 to end)
 HW: Create a webserver using bottle. As a UI for two of the other hw assignments
