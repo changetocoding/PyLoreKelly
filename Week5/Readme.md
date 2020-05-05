@@ -57,6 +57,25 @@ print(person1)
 print(person3)
 ```
 
+## Class and instance variables
+Class variables are shared by all instances. While instance variables are unqiue to each new instance of the class you've created. Instance variables can be created in the __init__ method
+
+```python
+class Dog:
+
+    kind = 'canine'         # class variable shared by all instances
+
+    def __init__(self, name):
+        self.name = name    # instance variable unique to each instance
+
+d = Dog('Fido')
+e = Dog('Buddy')
+d.kind                  # shared by all dogs 'canine'
+e.kind                  # shared by all dogs 'canine'
+d.name                  # unique to d 'Fido'
+e.name                  # unique to e 'Buddy'
+```
+
 ## Reading input
 ```python
 name = input("Enter a name: ")
@@ -89,7 +108,7 @@ Revision:
 
 # Project Phonebook:
 
-### Part 1 (Dictionaries explaination):
+### Part 1 (Dictionaries):
 Create a simple phonebook.
 
 1. Use a dictionary
@@ -100,7 +119,7 @@ Create a simple phonebook.
 
 
 ### Part 2
-We are going to extend dictionary to take in user input & stores the number as an int
+We are going to extend the dictionary to take in user input & stores the number as an int. Why is a dictionary a good datastructure for this?
 
 Write a new script that takes 2 commands
 - Add: the user can enter name and 11 digit numbers pairs. e.g 12345678901
