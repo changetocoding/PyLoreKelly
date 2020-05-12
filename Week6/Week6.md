@@ -54,7 +54,8 @@ with open('myfile.txt', 'r') as reader:
     for line in reader.readlines():
         print(line, end='')
 ```
-The print(line, end='') makes sure that print doesnt chuck an additional enter at the end of the line
+The print(line, end='') makes sure that print doesnt chuck an additional enter at the end of the line.
+"test\n".rstrip() also removes it
 
 ### Writing to files
 ```python
