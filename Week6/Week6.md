@@ -2,6 +2,9 @@
 
 # Reading and Writing to files
 
+### Additional info
+[here](https://realpython.com/read-write-files-python/)
+
 ### Files intro
 Need to know about files from [here](https://realpython.com/read-write-files-python/)
 1. What is a file
@@ -118,4 +121,6 @@ class DavidException(Error):
         self.message = message
 ```
 
-HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting
+HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting (chpt 13 - 19
+HW: Phonebook update to save to a file and load form a file
+HW (optional) Add abilty to remove names
