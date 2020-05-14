@@ -12,6 +12,11 @@ ord(str[0])
 
 
 ## Homework
+Recreate the dictionary class with some changes
+1. Use len(string) instead for the hashing function  
+2. Add a remove method  
+
+
 Create your own string builder class
 ```python
 # 1. You should be able to create it
