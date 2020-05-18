@@ -121,6 +121,7 @@ class DavidException(Error):
         self.message = message
 ```
 
-HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting (chpt 13 - 19
-HW: Phonebook update to save to a file and load form a file
-HW (optional) Add abilty to remove names
+# Homework
+HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting (chpt 13 - 19)  
+HW: Phonebook update to save to a file and load form a file  
+HW (optional) Add abilty to remove names  
