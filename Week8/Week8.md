@@ -1,4 +1,4 @@
-# Lesson 6: Exceptions and Reading/Writing files
+# Lesson 8: Exceptions and Reading/Writing files
 
 # Reading and Writing to files
 
