@@ -27,5 +27,5 @@ HW: Create a webserver using bottle. Wrap up the fizz buzz code into a function 
 
 ```python
 for no in fizzbuzz:
-    '<p>{}</p>'.format(no)
+    html = html + '<p>{}</p>'.format(no)
 ```
