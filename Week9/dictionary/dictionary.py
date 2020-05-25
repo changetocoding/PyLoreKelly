@@ -1,22 +1,4 @@
-# Objects II: Grouping together things
-# phonebook
-# multiple list
-# Class
-# Dictionary
-
-
-# 1 Grouping together logic: Class handles mouse input, keyboard input
-# 2. Grouping related data
-# 3. Composition small classes doing small things make a big application just like a house
-
-
-
-# What if want to add more details like postcode, surname, email address
-
-
-
-
-
+# here is and example of a class to store data
 class PhonebookEntry:
     def __init__(self, name, no, postcode, address_line):
         self.name = name
@@ -31,6 +13,7 @@ entry1 = PhonebookEntry('paul',8888,'SE1', '1 Wood st' )
 entry2 = PhonebookEntry('james',999,'E1', '20 fox road' )
 
 
+# Here we build our own dictionary
 class Dict:
 
     def __init__(self):
