@@ -44,7 +44,7 @@ This converts the list of strings into one string
 **undo()**  
 This removes the last string that was added to the list
 
-
+You'll be creating a reusable class here like the dictionary class we created in class, or pythons dictionary class. This is something that can be used by anyone
 
 
 
@@ -64,7 +64,8 @@ str.add(' making sure your script works.')
 
 # 4. They should be able to display it
 other = str.all()
-print(other) # prints "Testing is about making sure your script works.". it was constructed with 'Test' in part 2, 'ing' ' is about' '  making sure your script works.' were added in part 3
+print(other) # prints "Testing is about making sure your script works.". 
+# It was constructed with 'Test' in part 2, 'ing', ' is about', '  making sure your script works.' were added in part 3
 
 # 5. They should be able to remove the last added string
 str.undo()
