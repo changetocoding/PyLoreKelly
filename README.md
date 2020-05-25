@@ -144,7 +144,8 @@ HW: Create a webserver using bottle. As a UI for two of the other hw assignments
 ## Lesson 9: Unit testing & Git revision 
 Intro to unit testing & why  
 TDD
-We will review git here.
+We will review git here.  
+https://realpython.com/pytest-python-testing/
 
 HW: (tbc)
 
