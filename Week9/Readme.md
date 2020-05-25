@@ -19,6 +19,10 @@ ord(str[0])
 
 ### Create your own string builder class
 
+String builder allows you to compose strings on the fly. It tends to be useful when we compose strings from partial information
+e.g. we get users telep
+
+
 This is example code for how another developer using your code should be able to use it:
 
 ```python
