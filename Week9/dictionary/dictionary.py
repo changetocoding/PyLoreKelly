@@ -33,7 +33,7 @@ entry2 = PhonebookEntry('james',999,'E1', '20 fox road' )
 
 class Dict:
 
-    def __init__(self, dict):
+    def __init__(self):
         self.elements = []
         for i in range (20):
             self.elements.append(None)
