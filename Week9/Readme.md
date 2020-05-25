@@ -18,23 +18,26 @@ ord(str[0])
 
 
 ### Create your own string builder class
+
+This is example code for how another developer using your code should be able to use it:
+
 ```python
-# 1. You should be able to create it
+# 1. They should be able to create an instance of it
 str = YourStringBuilder()
 
-# 2. You should be able to create it with a string
+# 2. They should be able to create it with a string
 str = YourStringBuilder('Test')
 
-# 3. You can add a string to it
+# 3. They can add a string to it
 str.add('ing')
 str.add(' is about')
 str.add(' making sure your script works.')
 
-# 4. You should be able to display it
+# 4. They should be able to display it
 other = str.to_string()
-print(other) # prints "Testing is about making sure your script works."
+print(other) # prints "Testing is about making sure your script works.". it was constructed with 'Test' in part 2, 'ing' ' is about' '  making sure your script works.' were added in part 3
 
-# 5. You should be able to remove the last added string
+# 5. They should be able to remove the last added string
 str.remove()
 str.remove()
 other = str.to_string()
