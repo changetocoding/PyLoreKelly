@@ -12,11 +12,12 @@ ord(str[0])
 
 
 ## Homework
-Recreate the dictionary class with some changes
+
+### Recreate the dictionary class with some changes
 1. Add a remove method  
 
 
-Create your own string builder class
+### Create your own string builder class
 ```python
 # 1. You should be able to create it
 str = YourStringBuilder()
