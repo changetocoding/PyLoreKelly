@@ -27,6 +27,9 @@ Getting users to type in thier expenditure is a bit long. In this part we will u
 
 You can read from your own bank statements and let us know how much you spend on each category, and if your are penny foolish or pound foolish. (! Do not commit your bank statement !)
 
+https://docs.python-guide.org/scenarios/scrape/
+
+
 # Revision of semester 1:
 - if/while
 - for loop
