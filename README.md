@@ -165,7 +165,8 @@ Prior to the lesson anaconda should be installed.
 
 ## Lesson Intro to Numpy & Pandas
 https://www.learnpython.org/en/Numpy_Arrays & following chapter  
-https://www.learnpython.org/en/Pandas_Basics  
+https://www.learnpython.org/en/Pandas_Basics 
+https://github.com/realpython/materials/blob/master/pandas-intro/pandas_intro.ipynb
 
 
 ## Lesson Numpy
