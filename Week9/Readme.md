@@ -19,11 +19,39 @@ ord(str[0])
 
 ### Create your own string builder class
 
-String builder allows you to compose strings on the fly. It tends to be useful when we compose strings from partial information
-e.g. we get users telep
+String builder allows you to compose strings on the fly. It tends to be useful when we compose strings from partial information.
+
+A good example would be using it for undo.
+
+e.g. 
+
+```python
+str = YourStringBuilder()
+str.add('Hello ')
+str.add('World.')
+print(str.to_string()) 
+# prints 'Hello World'
+str.undo()
+print(str.to_string()) 
+# prints 'Hello '
+```
+
+Your string builder like the dictionary example should have a list under the covers. The string builder should have 3 methods
+
+**add(string)**  
+This adds a string to the the list
+
+**to_string()**  
+This converts the list of strings into one string
+
+**undo()**  
+This removes the last string that was added to the list
 
 
-This is example code for how another developer using your code should be able to use it:
+
+
+
+This is an example code for how another developer using your code should be able to use it:
 
 ```python
 # 1. They should be able to create an instance of it
@@ -42,8 +70,8 @@ other = str.to_string()
 print(other) # prints "Testing is about making sure your script works.". it was constructed with 'Test' in part 2, 'ing' ' is about' '  making sure your script works.' were added in part 3
 
 # 5. They should be able to remove the last added string
-str.remove()
-str.remove()
+str.undo()
+str.undo()
 other = str.to_string()
 print(other) # prints "Testing"
 
