@@ -29,10 +29,10 @@ e.g.
 str = YourStringBuilder()
 str.add('Hello ')
 str.add('World.')
-print(str.to_string()) 
+print(str.all()) 
 # prints 'Hello World'
 str.undo()
-print(str.to_string()) 
+print(str.all()) 
 # prints 'Hello '
 ```
 
@@ -41,7 +41,7 @@ Your string builder like the dictionary example should have a list under the cov
 **add(string)**  
 This adds a string to the the list
 
-**to_string()**  
+**all()**  
 This converts the list of strings into one string
 
 **undo()**  
@@ -66,13 +66,13 @@ str.add(' is about')
 str.add(' making sure your script works.')
 
 # 4. They should be able to display it
-other = str.to_string()
+other = str.all()
 print(other) # prints "Testing is about making sure your script works.". it was constructed with 'Test' in part 2, 'ing' ' is about' '  making sure your script works.' were added in part 3
 
 # 5. They should be able to remove the last added string
 str.undo()
 str.undo()
-other = str.to_string()
+other = str.all()
 print(other) # prints "Testing"
 
 ```
