@@ -23,6 +23,23 @@ foo.doSomething
 
 Demo in class
 
+### The module gets executed when imported
+But only once
+```python
+# foo.py
+print('hello world')
+```
+```python
+# main.py
+import foo
+
+print('hello world already printed...')
+```
+Can use this to initialise variables in the module that you want to be singleton (only initialised once).  
+
+But for most part don't have code that executes in your imported module: just functions and classes that can be called (no nasty side effects from importing)
+
+
 ### from ... import ...
 There is another way which means you don't have to do the foo.functionName(). But this is bad as it imports all the names from the module into your scope.
 
