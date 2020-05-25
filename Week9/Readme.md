@@ -14,7 +14,7 @@ ord(str[0])
 ## Homework
 
 ### Recreate the dictionary class with some changes
-1. Add a remove method  
+1. Add a remove method to remove the value for a given key
 
 
 ### Create your own string builder class
