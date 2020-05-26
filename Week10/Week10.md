@@ -78,9 +78,4 @@ Anaconda.
 # HW
 HW: https://classroom.udacity.com/courses/ud1110 - Lesson 6 Scripting (Sections 22 till end)  
 HW: [Modules](https://www.learnpython.org/en/Modules_and_Packages)  
-HW: Create a webserver using bottle. Wrap up the fizz buzz code into a function in another file. Import it and print first 100 to screen. Should all know basic html but if a bit stuck this might help:
-
-```python
-for no in fizzbuzz:
-    html = html + '<p>{}</p>\n'.format(no)
-```
+HW: Lores game: Create a new script that imports the stringbuilder file. Then create lores game that adds sentences & removes sentences from the stringbuilder before finally displaying the result
