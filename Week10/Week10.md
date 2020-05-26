@@ -78,3 +78,4 @@ Anaconda.
 # HW
 HW: https://classroom.udacity.com/courses/ud1110 - Lesson 6 Scripting (Sections 22 till end)  
 HW: [Modules](https://www.learnpython.org/en/Modules_and_Packages)  
+HW: Lores game: Create a new script that imports the stringbuilder file. Then create lores game that adds sentences & removes sentences from the stringbuilder before finally displaying the result
