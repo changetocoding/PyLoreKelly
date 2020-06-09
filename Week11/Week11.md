@@ -5,7 +5,9 @@
 - Hong and Emmanuel will give a lesson on functions next week.
 - Unit testing
 - Iterators, Generators and List comprehension
+
 We will also start commiting homework in to this repository. This is to teach about collaborating using the same repository.  
+
 Next semester will we start the data science stuff.  
 
 # Project
