@@ -1,4 +1,4 @@
-# Semester 2
+# Semester 3
 
 # Course content (5 weeks):
 - Project Budget
