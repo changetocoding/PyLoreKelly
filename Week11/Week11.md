@@ -22,11 +22,12 @@ User can query using any of these questions
 "Am I penny foolish or pound foolish?" Returns Yes/No
 "How much money do I have?" Returns money left
 
-### Part II: Reading bank statement
+### Part II: Reading bank statement [Csv]
 Getting users to type in thier expenditure is a bit long. In this part we will use the file reading skills we learnt to automatically read from a bank statement to populate our budget tracker
 
 You can read from your own bank statements and let us know how much you spend on each category, and if your are penny foolish or pound foolish. (! Do not commit your bank statement !)
 
+### Part III: Scrape website
 https://docs.python-guide.org/scenarios/scrape/
 
 
