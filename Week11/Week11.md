@@ -68,3 +68,8 @@ https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-envi
 - functions
 - file reading
 - classes
+
+
+# HW
+- Follow guide here: https://www.jetbrains.com/help/pycharm/quick-start-guide.html#  
+- Come up with plan on how going to do the part I of the budget tracking app.
