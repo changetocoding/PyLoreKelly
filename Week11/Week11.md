@@ -55,9 +55,9 @@ Anaconda is used by data scientist. It has some tools to make life easier and co
 
 Virtual environments is python copied to a different location and that python is used to run a script/project. This is useful because it allows the use of different versions of python on different projects.
 
-We will run through installing it.
-https://www.anaconda.com/products/individual
-https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html#
+We will run through installing it.  
+https://www.anaconda.com/products/individual  
+https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html#  
 
 
 
