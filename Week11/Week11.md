@@ -22,11 +22,11 @@ In this part we create a python script where a user can enter thier expenditure.
 Enter money for the month  
 Enter name, cost, category.  
 
-User can query using any of these questions
-"Report?": list total spent on each category
-"Am I penny foolish or pound foolish?" Returns Yes/No
-"How much money do I have?" Returns money left
-Predict my spend on category next month  (optional)
+User can query using any of these questions  
+"Report?": list total spent on each category  
+"Am I penny foolish or pound foolish?" Returns Yes/No  
+"How much money do I have?" Returns money left  
+Predict my spend on category next month  (optional)  
 
 You can also add additional questions that your program can answer
 
