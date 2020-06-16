@@ -24,7 +24,6 @@ Enter name, cost, category.
 
 User can query using any of these questions  
 "Report?": list total spent on each category  
-"Am I penny foolish or pound foolish?" Returns Yes/No  
 "How much money do I have?" Returns money left  
 Predict my spend on category next month  (optional)  
 
@@ -34,6 +33,9 @@ You can also add additional questions that your program can answer
 
 ### Part II: Reading bank statement [Csv]
 Getting users to type in thier expenditure is a bit long. In this part we will use the file reading skills we learnt to automatically read from a bank statement to populate our budget tracker
+
+Answer the additional questions
+"Do you spend more money on items less than £10 or items nore than £10?" Returns Yes/No  
 
 You can read from your own bank statements or mine and let us know how much you spend on each category, and if your are penny foolish or pound foolish. (! Do not commit your bank statement !)
 
