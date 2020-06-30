@@ -34,13 +34,17 @@ You can also add additional questions that your program can answer
 ### Part II: Reading bank statement [Csv]
 Getting users to type in thier expenditure is a bit long. In this part we will use the file reading skills we learnt to automatically read from a bank statement to populate our budget tracker
   
-Answer the additional questions:  
+
+I've uploaded my bank statements from when I was travelling. Process that and answer the additional questions:  
 "Do you spend more money on items less than £10 or items nore than £10?" Returns Yes/No   
 "What item did I spend the most money on?"
+"I had a budget of £2000. Was I over or below budget".
+"I was travelling for 50 days. What was my average spend per a day while traveling?"
 
-You can read from your own bank statements or mine and let us know how much you spend on each category, and if your are penny foolish or pound foolish. (! Do not commit your bank statement !)
+Or you can also download a csv of you bank statement and run that through and answer some questions about your spend.
 
-### Part III: Scrape website (May skip)
+
+### Part III: Scrape website (Will skip)
 In this step we will scrape from a html page the budget information. We may skip this bit and cover webscraping in another semester.
 https://docs.python-guide.org/scenarios/scrape/
 
