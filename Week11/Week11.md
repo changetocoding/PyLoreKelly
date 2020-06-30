@@ -36,12 +36,14 @@ Getting users to type in thier expenditure is a bit long. In this part we will u
   
 
 I've uploaded my bank statements from when I was travelling. Process that and answer the additional questions:  
-"Do you spend more money on items less than £10 or items nore than £10?" Returns Yes/No   
-"What item did I spend the most money on?"
-"I had a budget of £2000. Was I over or below budget".
-"I was travelling for 50 days. What was my average spend per a day while traveling?"
+- "Did I spend more money on items less than £20 or items more than £20?" Returns Yes/No   
+- "What was the most expensive item I paid for (aka highest expenditure)?"
+- "I had a budget of £2000. Was I over or below budget".
+- "I was travelling for 50 days. What was my average spend per a day while traveling?"
 
 Or you can also download a csv of you bank statement and run that through and answer some questions about your spend.
+
+Note some items are income and should be ignored
 
 
 ### Part III: Scrape website (Will skip)
