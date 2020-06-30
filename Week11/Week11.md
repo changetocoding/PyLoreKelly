@@ -46,6 +46,11 @@ Or you can also download a csv of you bank statement and run that through and an
 Note some items are income and should be ignored
 
 
+The user inputting items is optional now
+
+As an extension can write stuff user inputted to file too
+
+
 ### Part III: Scrape website (Will skip)
 In this step we will scrape from a html page the budget information. We may skip this bit and cover webscraping in another semester.
 https://docs.python-guide.org/scenarios/scrape/
