@@ -221,7 +221,7 @@ Ex: Make a button in excel to either call a script or call an executable that yo
 -Duck typing  
 -Debugging  
 -Default arguments on functions (and gottcha with mutable ones)  
--
+
 
 # Projects
 ### Budget tracker
