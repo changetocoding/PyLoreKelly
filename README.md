@@ -205,22 +205,22 @@ Ex: Make a button in excel to either call a script or call an executable that yo
 4. Insights from the data
 
 # Other: Dont think necessary
--Multiple function arguments
--Regular Expressions
--Serialisation
--Partial functions
--Closures
--Mulithreading
--Map reduce https://www.learnpython.org/en/Map,_Filter,_Reduce
+-Multiple function arguments  
+-Regular Expressions  
+-Serialisation  
+-Partial functions  
+-Closures  
+-Mulithreading  
+-Map reduce https://www.learnpython.org/en/Map,_Filter,_Reduce  
 
 
 # Other to cover over course:
--Mutable vs immuatable.
--Pass by ref/ pass by value and what python does
--PEP8 & clean code in python
--Duck typing
--Debugging
--Default arguments on functions (and gottcha with mutable ones)
+-Mutable vs immuatable.  
+-Pass by ref/ pass by value and what python does  
+-PEP8 & clean code in python  
+-Duck typing  
+-Debugging  
+-Default arguments on functions (and gottcha with mutable ones)  
 -
 
 # Projects
