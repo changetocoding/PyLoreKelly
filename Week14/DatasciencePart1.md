@@ -20,7 +20,7 @@ https://www.kaggle.com/shebrahimi/financial-distress
 
 # Datascience Definitions
 
-
+![img](https://miro.medium.com/max/875/0*5NrDYk8PryKASFJD)
 
 # Install anaconda.
 
