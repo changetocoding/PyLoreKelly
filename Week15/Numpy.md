@@ -9,6 +9,11 @@ Week 16 & 17: Investigating the data (might only spend 1 week on this depending 
 Think of it as a version of python with all the stuff you need for data science
 Dependencies/requirements are the libaries that your python script will use. This is code that someone else has written that performs a useful function for your script without you having to write it
 
+Check can run anaconda in pycharm
+
+https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html
+
+
 ### jupyter notebook
 Remember it is below to start the jupyter server
 ```
