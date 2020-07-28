@@ -24,7 +24,7 @@ https://classroom.udacity.com/courses/ud170/lessons/
 Upto and including chpt 13:
 This will get your environment setup (last weeks homework) and cover loading the data and cleaning the data
 
-### loading data CSVs
+### Loading data CSVs
 The course uses CSV library. This is very similar to what we did for the file reading but better for reading CSVs
 
 They cover how to use it in the HW. Can go through it in class if struggling with it
@@ -41,7 +41,7 @@ Wonderful Spam
 ```
 unicode is just a text encoding system (the best one as it supports other languages instead of just american english)
 
-[Additional reading](https://realpython.com/python-csv/)
+[Additional reading if stuck on csv](https://realpython.com/python-csv/)
 
 ### Cleaning data
 have to clean data: Similar to budget tracker I had all those deposits, had to clean them out. 
