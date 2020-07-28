@@ -41,6 +41,8 @@ Wonderful Spam
 ```
 unicode is just a text encoding system (the best one as it supports other languages instead of just american english)
 
+[Additional reading](https://realpython.com/python-csv/)
+
 ### Cleaning data
 have to clean data: Similar to budget tracker I had all those deposits, had to clean them out. 
 
