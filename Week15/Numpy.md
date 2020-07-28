@@ -45,7 +45,8 @@ Can be saved as a .csv or a .txt file
 ```python
 import unicodecsv
 
-with open('employee_birthday.txt') as csv_file:
+with open('test.csv', 'rb') as csv_file:
+    # open('test.csv') did not work for me, had to do above (include the 'b'). See https://github.com/jdunck/python-unicodecsv/issues/79
     csv_reader = unicodecsv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
@@ -67,7 +68,7 @@ delimiter specifiers the character that the columns break on. The default is ','
 Can directly read into a dictionary so can access using the header
 ```python
 >>> import unicodecsv
->>> with open('employee_birthday.csv') as csvfile:
+>>> with open('test.csv', 'rb') as csvfile:
 ...     reader = unicodecsv.DictReader(csvfile)
 ...     for row in reader:
 ...         print(row['name'], row['department'])
