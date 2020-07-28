@@ -29,7 +29,7 @@ Check everyone is setup and got the notebooks working
 # Homework
 https://classroom.udacity.com/courses/ud170/lessons/
 
-Upto and including chpt 13:
+Upto and including chpt 15:
 This will get your environment setup (last weeks homework) and cover loading the data and cleaning the data
 
 ### Loading data CSVs
