@@ -3,8 +3,8 @@
 # Course structure:
 - Week 15 (today): Setup env, loading data & cleaning data
 - Week 16 & 17: Investigating the data (might only spend 1 week on this depending on how you get on)
-- Week 18: Numpy
-Then break for a week
+- Week 18: Numpy  
+Then break for a week  
 - Week 19+: pandas :panda_face:
 
 
