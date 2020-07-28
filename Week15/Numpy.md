@@ -41,12 +41,12 @@ Can be saved as a .csv or a .txt file
 import unicodecsv
 
 with open('employee_birthday.txt') as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter=',')
+    csv_reader = unicodecsv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
         if line_count == 0:
-          # This is the first row and header rwo
-          print(f'Column names are {", ".join(row)}')
+            # This is the first row and header rwo
+            print(f'Column names are {", ".join(row)}')
             line_count += 1
         else:
             print('---')
@@ -63,7 +63,7 @@ Can directly read into a dictionary so can access using the header
 ```python
 >>> import unicodecsv
 >>> with open('employee_birthday.csv') as csvfile:
-...     reader = csv.DictReader(csvfile)
+...     reader = unicodecsv.DictReader(csvfile)
 ...     for row in reader:
 ...         print(row['name'], row['department'])
 ...
