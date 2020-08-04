@@ -1,4 +1,4 @@
-# Starting off
+# Data Analysis 1
 
 # Course structure:
 - Week 15 (today): Setup env, loading data & cleaning data
