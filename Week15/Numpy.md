@@ -19,11 +19,19 @@ https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-envi
 
 ### jupyter notebook
 Remember it is below to start the jupyter server
+https://www.codecademy.com/articles/how-to-use-jupyter-notebooks
+
+1. Open your terminal 
+2. Navigate to the directory where you would like to save your notebook. For me it was:
+```
+cd C:\Dev\Teaching\Pupils\PyLoreKelly\Week15\Homework\david
+```
+3. Then type the command jupyter notebook
 ```
 jupyter notebook
 ```
 
-Check everyone is setup and got the notebooks working
+**Excerise In class**: Check everyone is setup and got the notebooks working
 
 
 # Homework
