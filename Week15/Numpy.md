@@ -107,3 +107,4 @@ The homework covers cleaning the data and removing rows that don't need
 
 ### Finally we will be doing it as a jupiter notebook
 Because the course does it that way, but it is also very useful as it is a good way to present your analysis in a runable format
+
