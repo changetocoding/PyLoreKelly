@@ -8,6 +8,7 @@ Then break for a week
 - Week 19+: pandas :panda_face:
 
 
+# Anaconda & Jupyter notebooks
 ### Anaconda
 Think of it as a version of python with all the stuff you need for data science
 Dependencies/requirements are the libaries that your python script will use. This is code that someone else has written that performs a useful function for your script without you having to write it
