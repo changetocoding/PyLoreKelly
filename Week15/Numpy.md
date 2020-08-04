@@ -17,7 +17,7 @@ Check can run anaconda in pycharm
 https://www.jetbrains.com/help/pycharm/conda-support-creating-conda-virtual-environment.html
 
 
-### jupyter notebook
+### Jupyter notebooks
 Remember it is below to start the jupyter server
 https://www.codecademy.com/articles/how-to-use-jupyter-notebooks
 
@@ -39,6 +39,11 @@ https://classroom.udacity.com/courses/ud170/
 
 Upto and including chpt 15:
 This will get your environment setup (last weeks homework) and cover loading the data and cleaning the data
+
+### Getting started:
+1. Download all the csv and the jupyter notebook from the resources section on the right menu bar in the udacity course into a folder in the git repository
+2. Follow steps in "Jupyter notebooks" section to open the jupyter notebooks in that folder
+
 
 ### Loading data CSVs
 The course uses CSV library. This is very similar to what we did for the file reading but better for reading CSVs
