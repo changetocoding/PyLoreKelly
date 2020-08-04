@@ -10,3 +10,6 @@ https://classroom.udacity.com/courses/ud170/
 Go through my solution
 
 Start commiting to one repository
+
+# Homework 
+Complete remaining chapters in lesson 1
