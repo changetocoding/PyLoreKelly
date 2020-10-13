@@ -1,0 +1,3 @@
+import pandas
+spend = pandas.read_csv("BankStatement.csv")
+spend["Amount (GBP)"] = spend["Amount (GBP)"] * -1
