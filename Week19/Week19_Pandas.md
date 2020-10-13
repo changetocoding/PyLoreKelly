@@ -7,7 +7,7 @@ Evolution to Pandas
 ### Numpy 
 2d data structure
 
-| Tables        | Are           | Cool  |
+| col 4 is       | right-aligned           |  $122  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
@@ -16,4 +16,4 @@ Evolution to Pandas
 ### Pandas
 Table like structure used to. With headers and row labels
 
-!(https://pandas.pydata.org/docs/_images/01_table_dataframe.svg)
+![visual pandas data structure](https://pandas.pydata.org/docs/_images/01_table_dataframe.svg)
