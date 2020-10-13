@@ -97,7 +97,7 @@ np.identity(4, dtype=float)
 ```
 
 
-# Array mathematics
+### Array mathematics
 ```python
 a = np.array([[1,2], [3,4]], float)
 b = np.array([[2,0], [1,3]], float)
@@ -110,6 +110,15 @@ a * b # element wise. See below
 | ----  |:-----: | 
 | 1 * 2 |  2 * 0 |
 | 3 * 1 |  4 * 3 |
+
+
+For matrix multiplication do: np.dot(b,a)
+
+### Mean, median
+```python
+np.median(a)
+np.mean(a)
+```
 
 
 # Pandas
@@ -147,3 +156,8 @@ Finally value counts:
 ```python
 titanic["Pclass"].value_counts()
 ```
+
+
+# Next week we are going to start predicting the future:
+# Linear regression:
+![Linear Regression](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/2880px-Linear_regression.svg.png)
