@@ -1,8 +1,16 @@
 Evolution to Pandas
 
-List:
+### List:
 1D data structure
-![https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.6ws45kLFI4Xrhsg8P74uUwHaBZ%26pid%3DApi&f=1]
+![visual List representation](https://files.realpython.com/media/t.eb0b38e642c5.png)
 
+### Numpy 
+2d data structure
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+### Pandas
+Table like structure used to. With headers and row labels
 
 !(https://pandas.pydata.org/docs/_images/01_table_dataframe.svg)
