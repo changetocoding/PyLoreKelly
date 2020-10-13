@@ -106,7 +106,7 @@ a * b # element wise. See below
 # array([[2., 0.], [3., 12.]]
 ```
 
-| Result      |
+| Result|      |
 | ----  |:-----: | 
 | 1 * 2 |  2 * 0 |
 | 3 * 1 |  4 * 3 |
