@@ -63,7 +63,7 @@ a.transpose()
 ```
 
 ### Joining np arrays
-```
+```python
 a = np.array([[1, 2], [3, 4]], float)
 b = np.array([[5, 6], [7,8]], float)
 np.concatenate((a,b))
