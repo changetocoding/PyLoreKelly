@@ -123,6 +123,12 @@ np.mean(a)
 
 # Pandas
 
+## loc update
+To select a column:
+```python
+spend.loc[:, "Spending Category"]
+spend["Spending Category"]
+```
 
 ## Summary Statistics
 Covered row/column selection in last lesson
