@@ -112,5 +112,33 @@ a * b # element wise. See below
 | 3 * 1 |  4 * 3 |
 
 
+# Pandas
 
 
+## Summary Statistics
+Covered row/column selection in last lesson
+```python
+titanic["Age"].mean()
+titanic[["Age", "Fare"]].median()
+```
+
+Describe give a list of stats: Count, mean, standard deviation, min, max ....
+```python
+titanic[["Age", "Fare"]].describe()
+```
+
+We can also group first before taking stats (from the hw).
+
+Aka: What is the average age for male versus female Titanic passengers?
+```python
+titanic[["Sex", "Age"]].groupby("Sex").mean()
+
+# or just for age:
+titanic.groupby("Sex")["Age"].mean()
+```
+
+You can also group by multiple categories
+Aka: What is the mean ticket fare price for each of the sex and cabin class combinations?
+```python
+titanic.groupby(["Sex", "Pclass"])["Fare"].mean()
+```
