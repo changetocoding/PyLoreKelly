@@ -142,3 +142,8 @@ Aka: What is the mean ticket fare price for each of the sex and cabin class comb
 ```python
 titanic.groupby(["Sex", "Pclass"])["Fare"].mean()
 ```
+
+Finally value counts:
+```python
+titanic["Pclass"].value_counts()
+```
