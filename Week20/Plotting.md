@@ -25,7 +25,7 @@ Then we need to import the plotting library
 ```
 Or "%matplotlib inline" because it displays the plot in the Jupyter Notebooks itself, immediately below the cell that creates the plot:
 ```python
-%matplotlib
+%matplotlib inline
 ```
 
 ### Plotting median and percentiles
@@ -59,7 +59,7 @@ Can either pass a parameter to the kind argument or use one of below methods
 ```python
 median_column = df["Median"]
 type(median_column)  # pandas.core.series.Series
-# median_column.plot(kind="hist")
+median_column.plot(kind="hist")
 ```
 
 This is also very useful for identifying outlies
