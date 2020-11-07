@@ -14,6 +14,18 @@ Or "%matplotlib inline" because it displays the plot in the Jupyter Notebooks it
 %matplotlib
 ```
 
+The data we are working with
+
+```python
+import pandas as pd
+download_url = (
+    "https://raw.githubusercontent.com/fivethirtyeight/"
+    "data/master/college-majors/recent-grads.csv"
+)
+df = pd.read_csv(download_url)
+type(df)
+```python
+
 ### Plotting median and percentiles
 ```python
 df.plot(x="Rank", y=["P25th", "Median", "P75th"])
