@@ -5,14 +5,7 @@
 
 
 # Plotting
-First off we need to import the plotting library
-```python
-%matplotlib
-```
-Or "%matplotlib inline" because it displays the plot in the Jupyter Notebooks itself, immediately below the cell that creates the plot:
-```python
-%matplotlib
-```
+
 
 The data we are working with
 
@@ -24,7 +17,16 @@ download_url = (
 )
 df = pd.read_csv(download_url)
 type(df)
+```
+
+Then we need to import the plotting library
 ```python
+%matplotlib
+```
+Or "%matplotlib inline" because it displays the plot in the Jupyter Notebooks itself, immediately below the cell that creates the plot:
+```python
+%matplotlib
+```
 
 ### Plotting median and percentiles
 ```python
